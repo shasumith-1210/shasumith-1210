@@ -65,27 +65,10 @@ Building my skills one project, one algorithm, and one commit at a time.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shasumith-1210&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasumith-1210&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shasumith-1210&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shasumith-1210&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
